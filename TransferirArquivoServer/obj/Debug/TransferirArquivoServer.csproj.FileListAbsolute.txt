@@ -1,0 +1,11 @@
+G:\projects\TransferirArquivoServer\TransferirArquivoServer\bin\Debug\TransferirArquivoServer.exe.config
+G:\projects\TransferirArquivoServer\TransferirArquivoServer\bin\Debug\TransferirArquivoServer.exe
+G:\projects\TransferirArquivoServer\TransferirArquivoServer\bin\Debug\TransferirArquivoServer.pdb
+G:\projects\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.csproj.AssemblyReference.cache
+G:\projects\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.csproj.SuggestedBindingRedirects.cache
+G:\projects\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.form1.resources
+G:\projects\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.Properties.Resources.resources
+G:\projects\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.csproj.GenerateResource.cache
+G:\projects\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.csproj.CoreCompileInputs.cache
+G:\projects\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.exe
+G:\projects\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.pdb
